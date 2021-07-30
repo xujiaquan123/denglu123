@@ -1,0 +1,3 @@
+Wed, 14 Jul 2021 15:56:50-testcase.ceshicase-ceshicase.py-[line:167]-INFO-[日志信息]: {'resultCode': 10013, 'resultMessage': '手机号已经存在', 'data': None}
+Wed, 14 Jul 2021 15:56:50-testcase.ceshicase-ceshicase.py-[line:167]-INFO-[日志信息]: {'resultCode': 10013, 'resultMessage': '手机号已经存在', 'data': None}
+Wed, 14 Jul 2021 15:56:50-testcase.ceshicase-ceshicase.py-[line:167]-INFO-[日志信息]: {'resultCode': 10013, 'resultMessage': '手机号已经存在', 'data': None}

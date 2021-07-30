@@ -1,0 +1,2 @@
+Wed, 14 Jul 2021 15:48:17-testcase.ceshicase-ceshicase.py-[line:158]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': 93717}
+Wed, 14 Jul 2021 15:48:17-testcase.ceshicase-ceshicase.py-[line:158]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': 93717}

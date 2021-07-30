@@ -1,0 +1,6 @@
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}
+Wed, 14 Jul 2021 15:46:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 11000, 'resultMessage': '无效的session', 'data': None}

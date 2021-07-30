@@ -1,0 +1,6 @@
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}
+Wed, 14 Jul 2021 15:56:51-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 200, 'resultMessage': '成功', 'data': None}

@@ -1,0 +1,1 @@
+[32mINFO    [0m testcase.ceshicase:ceshicase.py:300 {'resultCode': 10003, 'resultMessage': '日期参数异常不能为空或者选择过去日期', 'data': None}

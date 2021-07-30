@@ -1,0 +1,1 @@
+[32mINFO    [0m testcase.ceshicase:ceshicase.py:158 {'resultCode': 200, 'resultMessage': '成功', 'data': 93717}

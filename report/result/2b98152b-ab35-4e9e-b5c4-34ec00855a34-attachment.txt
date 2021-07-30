@@ -1,0 +1,1 @@
+[32mINFO    [0m testcase.ceshicase:ceshicase.py:359 {'resultCode': 10012, 'resultMessage': '名称已存在', 'data': None}

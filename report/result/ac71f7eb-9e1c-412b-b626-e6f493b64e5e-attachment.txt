@@ -1,0 +1,1 @@
+Wed, 14 Jul 2021 15:48:16-testcase.ceshicase-ceshicase.py-[line:33]-INFO-[日志信息]: {'curPageIndex': 0, 'curPageSize': 0, 'totalRecords': 0, 'totalPage': 0, 'data': [], 'resultCode': 200, 'resultMessage': '成功', 'secondData': None}

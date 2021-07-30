@@ -1,0 +1,6 @@
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
+Wed, 14 Jul 2021 15:48:18-testcase.ceshicase-ceshicase.py-[line:221]-INFO-[日志信息]: {'resultCode': 21004, 'resultMessage': 'Account not exists', 'data': None}
